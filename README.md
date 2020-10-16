@@ -40,3 +40,13 @@ git merge branch_to_merge
     git commit
     git push
 
+6. Finish Branch
+
+## Delete branch
+
+- delete remote
+git push origin :feature_branch
+
+- delete local
+git branch -d feature_branch
+
