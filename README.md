@@ -1,4 +1,4 @@
-# Prueba de Github Workflow v1.0 (DEV1.1)
+# Prueba de Git Workflow v1.0 
 
 1. First commit
 2. Second commit
