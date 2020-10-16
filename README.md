@@ -26,3 +26,17 @@ git checkout -b feature_branch development
 
 - to link local branch to remote branch 
 git push --set-upstream origin feature_branch
+
+5. Merges
+
+## Do merge
+
+git merge branch_to_merge
+
+- if do you have problems
+    Open file and modify
+- Recommit
+    git add file.xx
+    git commit
+    git push
+
